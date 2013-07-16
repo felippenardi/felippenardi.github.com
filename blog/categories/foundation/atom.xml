@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Felippe Nardi]]></title>
-  <link href="http://felippenardi.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: foundation, | Felippe Nardi]]></title>
+  <link href="http://felippenardi.github.io/blog/categories/foundation/atom.xml" rel="self"/>
   <link href="http://felippenardi.github.io/"/>
   <updated>2013-07-16T21:43:22+00:00</updated>
   <id>http://felippenardi.github.io/</id>
