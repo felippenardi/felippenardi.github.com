@@ -4,7 +4,7 @@
   <title><![CDATA[Category: foundation, | Felippe Nardi]]></title>
   <link href="http://felippenardi.github.io/blog/categories/foundation/atom.xml" rel="self"/>
   <link href="http://felippenardi.github.io/"/>
-  <updated>2013-07-16T21:43:22+00:00</updated>
+  <updated>2013-07-16T21:56:20+00:00</updated>
   <id>http://felippenardi.github.io/</id>
   <author>
     <name><![CDATA[Felippe Nardi]]></name>
@@ -22,13 +22,11 @@
 
 <p>The rest of this article just explains <em>why</em>.</p>
 
-<hr />
-
 <p>There are significant <strong>core differences</strong> between <strong>Bootstrap</strong> and <strong>Foundation</strong>, but if I can give you just <strong>ONE thing to remember</strong>, that thing is:</p>
 
 <blockquote><p><strong>Zurb and Twitter made their objectives and intentions very clear when naming each CSS Frameworks:</strong> Bootstrap will have <em>everything</em> you&rsquo;ll ever need <em>to bootstrap</em> your project. Foundation will have <em>the least of things</em> you will ever need <em>as foundation</em> for your project.</p></blockquote>
 
-<p>Keep this in mind while I list you 5 of the core differences between both CSS Framework:</p>
+<p>Keep this in mind while I list you some of the core differences between both CSS Framework:</p>
 
 <h3>1- UI Elements</h3>
 
@@ -38,7 +36,7 @@
 
 <p>On the other hand, Bootstrap will give almost every UI element you can think of.</p>
 
-<h3>2- EMs VS Pixels</h3>
+<h3>1EMs VS Pixels</h3>
 
 <h4>Foundation use EMs and Bootstraps use pixels.</h4>
 
@@ -59,9 +57,9 @@
 
 <h4>Foundation&rsquo;s grid shrinks and stretchs according to the current browser width. Bootstrap has a pre-defined set of grid sizes for main devices and screens.</h4>
 
-<p>Bootstrap will change it&rsquo;s grid like a transformer while resizing the browser width.</p>
+<p>Bootstrap will abruptly change it&rsquo;s grid like a transformer while you resize the browser width.</p>
 
-<p>Foundation&rsquo;s flexible grid will adapt itself to the current browser width, that is what they call layout will morth like a Transformer while resizing the browser width.</p>
+<p>Foundation will fexibly adapt it&rsquo;s grid to the current browser width, that is what they call  layout will morth like  a Transformer while resizing the browser width.</p>
 
 <p>Foundation has two main points where the grid will change: small and large. Everything in between is shriknked and stretched to match the current browser width. No pre-defined screensizes, and the main reason of existing two points for the grid to change, is to encorage you to display columns differently for small and larger screens.</p>
 
@@ -91,7 +89,7 @@
 
 <h2>Conclusion</h2>
 
-<p>Ask your self those questions: Do you want <strong>something easy to use and ready</strong> to make your web app come to life? Or do you rather <strong>plan your CSS carefully</strong> and have the least you need to use as base for your project?</p>
+<p>Ask your self those questions: Do you want <strong>something easy to use and ready</strong> to make your web app come to life? Or do you rather <strong>plan your CSS carefully</strong> and have the least you need to use as base to your project?</p>
 
 <p>The answer is: <strong>Bootstrap</strong>. <strong>Foundation</strong>. Respectively.</p>
 ]]></content>
